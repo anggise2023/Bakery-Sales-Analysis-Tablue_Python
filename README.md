@@ -1,4 +1,4 @@
-# Bakery Sales Ana;ysis
+# Bakery Sales Analysis
 
 This dataset comprises the daily transactions of a French bakery’s customers from January 1, 2021, to September 30, 2022, totaling 234,005 entries across 6 columns. These columns include order date, time sequence, transaction ticket number, product name (in French), quantity sold, and unit price.
 
